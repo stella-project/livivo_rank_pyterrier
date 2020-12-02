@@ -1,0 +1,4 @@
+data/livivo/*
+__pycache__/
+.idea/
+index/
